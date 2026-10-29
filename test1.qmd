@@ -1,0 +1,17 @@
+---
+
+---
+title: "analysis"
+format:
+  html:
+    embed-resources: true
+---
+
+```{r}
+#| include: false
+library(tidyverse)
+library(palmerpenguins)
+```
+---
+
+## 
